@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Lab3/
+lab3_files/
 
 # C extensions
 *.so
